@@ -32,9 +32,9 @@ Nous accompagnons les entreprises dans leur transformation digitale et leur iden
 
 ---
 
-## 👨‍💼 Nos dirigeants
+## 👨‍💼 Une entreprise familiale
 
-![Patrons de Pidev](assets/patrons-pidev.jpg)
+![Pierre et Juliette](assets/patrons-pidev.jpg)
 
 ---
 
