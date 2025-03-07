@@ -34,7 +34,7 @@ Nous accompagnons les entreprises dans leur transformation digitale et leur iden
 
 ## 👨‍💼 Une entreprise familiale
 
-![Pierre et Juliette](assets/patrons-pidev.jpg)
+![Pierre et Juliette](assets/famille-pidev.jpg)
 
 ---
 
